@@ -17,6 +17,10 @@
     <script>scripts\drawCross.gml</script>
     <script>scripts\drawSlotItem.gml</script>
     <script>scripts\drawCircle.gml</script>
+    <script>scripts\slotOnClick.gml</script>
+    <script>scripts\slotCreate.gml</script>
+    <script>scripts\roomMain.gml</script>
+    <script>scripts\roomDraw.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\Slot</object>
